@@ -1,0 +1,31 @@
+body{
+	background:#90D2D4;
+	color:#FFFFFF;
+	font-family:Apple Chancery, cursive;}
+	
+h1{
+	background:#90D2D4;
+color:#445E50;}
+
+h3{
+	background:#73D7D7;
+color:#445E50;}
+
+#infosperso{
+	margin-left:12%;
+}
+#expePro{
+	margin-left:12%;
+}
+#comp{
+	margin-left:12%;
+}
+#form{
+	margin-left:12%;
+}
+#inform{
+	margin-left:40%;
+}
+#restComp{
+	margin-left:0%;
+}
