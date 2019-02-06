@@ -1,31 +1,72 @@
 body{
-	background:#90D2D4;
-	color:#FFFFFF;
+	background:#A5BEEB;
+	color:000000;
 	font-family:Apple Chancery, cursive;}
 	
 h1{
-	background:#90D2D4;
-color:#445E50;}
+	background:#8EB0E9;
+color:#000000;}
 
 h3{
-	background:#73D7D7;
-color:#445E50;}
+	background:#8EB0E9;
+color:#000000;
+clear:both;}
+
+#nav{
+	color:#000000;
+	margin-left:15%;
+}
+ul{
+	list-style-type: circle;
+	
+}
+
+#objectif{
+	margin-left:10%;
+}
 
 #infosperso{
-	margin-left:12%;
+	margin-left:10%;
 }
 #expePro{
-	margin-left:12%;
+	margin-left:10%;
 }
 #comp{
-	margin-left:12%;
+	margin-left:10%;
 }
 #form{
-	margin-left:12%;
+	margin-left:10%;
+}
+#compbio{
+	heigh:100%;
+	float:left;
+	margin-left:0%;
+}
+#Polysomno{
+	heigh:100%;
+	float:left;
+	margin-left:0%;
+}
+#Histo{
+	heigh:100%;
+	float:left;
+	width:100%;
+	margin-left:0%;
+}
+#ExpAn{
+	heigh:100%;
+	float:left;
+	margin-left:0%;
 }
 #inform{
-	margin-left:40%;
+	heigh:100%;
+	float:left;
+	width 50%;
 }
-#restComp{
-	margin-left:0%;
+.mdl-slider__container {
+    background-color: white !important; /* Met le fond de la barre en blanc */
+    position: fixed !important; /* Permet de définir la position de la barre comme fixe */
+    top: 0; /* Défini la postion de la barre en haut */
+    z-index: 200; /* Une valeur élevée ici permet de s'assurer que l'élément est au dessus des autres */
+    width: 100vw; /* Défini la largeur de l'élément comme étant 100% de la largeur de l'écran */
 }
